@@ -32,11 +32,12 @@ class _MyHomePageState extends State<MyHomePage>
     return Scaffold(
       backgroundColor: Colors.black,
       body: Container(
-          decoration: BoxDecoration(
-            image: DecorationImage(
-                image: NetworkImage(imageUrl), fit: BoxFit.fitHeight),
-          ),
-          child: RadarSignal(controller: _controller)),
+        decoration: BoxDecoration(
+          image: DecorationImage(
+              image: NetworkImage(imageUrl), fit: BoxFit.fitHeight),
+        ),
+        child: RadarSignal(controller: _controller),
+      ),
     );
   }
 }
