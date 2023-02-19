@@ -23,7 +23,7 @@
 
 <p align="center">
 
-[<img src="https://user-images.githubusercontent.com/58719230/219265922-9abc7795-2ecb-447e-9489-a7fee6adf18d.png" width="100%">](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ)
+[<img src="https://user-images.githubusercontent.com/58719230/219952590-621075fe-dd50-4d29-9071-fc6d2daba928.png" width="100%">](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ)
 
 </p>
 
